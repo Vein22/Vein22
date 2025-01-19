@@ -12,7 +12,7 @@ Soy un **FullStack Developer** con experiencia en desarrollo de aplicaciones web
 ## 🌐 Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/melvin-mora-aguilar-491378298/)
 - [GitHub](https://github.com/Vein22)
-- [Email](melvinad2004@gmail.com)
+- melvinad2004@gmail.com
 
 ## 📚 Proyectos Destacados
 ### Proyecto Final de SoyHenry - Hotel Elysium
