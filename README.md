@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Melvin
 
-Soy un **FullStack Developer** con experiencia en desarrollo de aplicaciones web. Me especializo en tecnologías backend como **Node.js**, **Nest.js**, **Express** y **PostgreSQL**, y manejo **TypeScript** y **JavaScript**.
+Soy un **FullStack Developer** con experiencia en desarrollo de aplicaciones web. Me especializo en tecnologías backend como **Node.js**, **Nest.js**, **Express** y **PostgreSQL**, además manejo **TypeScript** y **JavaScript**.  
 
 ## 🔧 Habilidades
 - Node.js, Nest.js, Express
